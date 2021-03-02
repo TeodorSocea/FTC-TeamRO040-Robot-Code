@@ -13,7 +13,7 @@ Here are a couple of pictures of the robot:<br><br>
 <br><br>
 <img src="https://i.imgur.com/MzdhEcT.jpg"></img>
 <br><br>
-![Here](https://media.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.gif) is a clip of the autonomous part of the robot. It's the one on the bottom right corner!
+[Here](https://media.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.gif) is a clip of the autonomous part of the robot. It's the one on the bottom right corner!
 
 
 
