@@ -15,6 +15,6 @@ Here are a couple of pictures of the robot:<br><br>
 <br><br>
 Here is a clip of the autonomous part of the robot. It's the one on the bottom right corner!
 <br><br>
-<img src="https://media.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.gif"></img>
+<img src="https://media1.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.gif"></img>
 
 
