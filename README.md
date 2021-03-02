@@ -15,6 +15,8 @@ Here are a couple of pictures of the robot:<br><br>
 <br><br>
 <img src="https://i.imgur.com/MzdhEcT.jpg"></img>
 <br><br>
+<img src="https://i.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.webp"></img>
+<br><br>
 
 
 
