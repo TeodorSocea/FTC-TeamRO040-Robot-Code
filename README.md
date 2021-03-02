@@ -3,12 +3,13 @@
 The code for FTC Team RO040 "SnakeTech", Rover Ruckus 2019 contest.<br>
 ## Skills gained
 During the period I had worked with Team SnakeTech I have gained a lot of skills including experience utilising the Java programming language, experience with image processing and object detection using DogeCV, as well as hardware skills necessary for building a competitive robot.<br>
+I was the team's lead programmer and I was in charge of 5 other students. Together we were able to conceptualize and write the code for the robot.
 ## The code
 The code was written entirely in Java and can be found [here](https://github.com/TeodorSocea/FTC-TeamRO040-Robot-Code/tree/main/FTC-RoverRuckus2019/TeamCode/src/main/java).
 ## The robot
 Here is a clip of the autonomous part of the robot. It's the one on the bottom right corner!
 <br><br>
-<img src="https://i.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.webp" width="auto"></img>
+<img src="https://i.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.webp" width="720"></img>
 <br><br>
 Here are a couple of pictures of the robot:<br><br>
 <img src="https://i.imgur.com/bbFmzzC.jpg"></img>
