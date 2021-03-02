@@ -7,13 +7,15 @@ During the period I had worked with Team SnakeTech I have gained a lot of skills
 The code was written entirely in Java and can be found [here](https://github.com/TeodorSocea/FTC-TeamRO040-Robot-Code/tree/main/FTC-RoverRuckus2019/TeamCode/src/main/java).
 ## The robot
 Here are a couple of pictures of the robot:<br><br>
+[Here](https://media.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.gif) is a clip of the autonomous part of the robot. It's the one on the bottom right corner!
+<br><br>
 <img src="https://i.imgur.com/bbFmzzC.jpg"></img>
 <br><br>
 <img src="https://i.imgur.com/BTBISe4.jpeg"></img>
 <br><br>
 <img src="https://i.imgur.com/MzdhEcT.jpg"></img>
 <br><br>
-[Here](https://media.giphy.com/media/pxFoR0D6rCQ4TE0F7Y/giphy.gif) is a clip of the autonomous part of the robot. It's the one on the bottom right corner!
+
 
 
 
