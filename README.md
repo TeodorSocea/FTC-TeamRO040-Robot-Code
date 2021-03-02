@@ -6,7 +6,7 @@ During the period I had worked with Team SnakeTech I have gained a lot of skills
 ## Responsabilities
 Being team's lead programmer, I was in charge of 5 other students. Working hand in hand with the assembly department of the team we were able to come up with an efficient robot design and code that would allow us to score a maximum number of points.
 ## The code
-The code was written entirely in Java and can be found [here](https://github.com/TeodorSocea/FTC-TeamRO040-Robot-Code/tree/main/FTC-RoverRuckus2019/TeamCode/src/main/java).
+The code was written entirely in Java, utilizing FTC's SDK, and can be found [here](https://github.com/TeodorSocea/FTC-TeamRO040-Robot-Code/tree/main/FTC-RoverRuckus2019/TeamCode/src/main/java).
 ## The robot
 Here is a clip of the autonomous part of the robot. It's the one on the bottom right corner!
 <br><br>
